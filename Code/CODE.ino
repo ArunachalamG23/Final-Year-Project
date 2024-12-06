@@ -16,7 +16,7 @@
 
 #define BLYNK_PRINT Serial       "Abc"
 #include <Blynk.h>                "asd"
-#include <WiFi.h>
+#include <WiFi.h>                  "jkki" 
 #include <BlynkSimpleEsp32.h>
 
 #define RXD2 16 //(RX2)16
