@@ -2,6 +2,7 @@
  *  seedsowingnpk@gmailos.com
  *  1234567890
  */
+ 
 
 
 
@@ -13,8 +14,8 @@
 
 
 
-#define BLYNK_PRINT Serial
-#include <Blynk.h>
+#define BLYNK_PRINT Serial       "Abc"
+#include <Blynk.h>                "asd"
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
