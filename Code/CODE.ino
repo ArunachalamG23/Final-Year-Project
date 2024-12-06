@@ -19,7 +19,7 @@
 #include <WiFi.h>                  "jkki" 
 #include <BlynkSimpleEsp32.h>
 
-#define RXD2 16 //(RX2)16
+#define RXD2 16 //(RX2)16            "changes"
 #define TXD2 17 //(TX2)17
 #define mod Serial2 
 
